@@ -1,0 +1,9 @@
+{
+    "DevelopmentEnvironmentVersion" : "Quorum Studio 1.0",
+    "ExecutableName" : "STOP.ROBOT.2",
+    "ImageSheetEnabled" : false,
+    "ImageSheetRebuildOnCompile" : false,
+    "Main" : "/SourceCode/Main.quorum",
+    "ProjectName" : "STOP.Robot2",
+    "ProjectType" : "LegoType"
+}
